@@ -1,1 +1,1 @@
-module "go-pool"
+module "github.com/umaron/go-pool"
