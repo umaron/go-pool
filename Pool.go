@@ -2,7 +2,6 @@ package go_pool
 
 type Pool struct {
 	size    int
-	current int
 	channel chan func()
 }
 
